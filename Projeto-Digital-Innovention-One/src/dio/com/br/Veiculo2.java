@@ -1,5 +1,6 @@
 package dio.com.br;
 
+//classe Veiculo2
 public abstract class Veiculo2 {
 	private String placa;
 	private int ano;
